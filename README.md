@@ -1,4 +1,4 @@
 # MATH_76
  Tutorial
 
- Whatever
+Learning about git commands. 
